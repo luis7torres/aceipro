@@ -83,6 +83,65 @@ nav ul li a:active {
   }
 }
 
+/*Estilo de parrafo*/
+.parrafo{
+  width: 90%;
+  padding-left: 99px;
+  padding-bottom: 70px;
+  margin-top: 25px;
+}
+
+/*Estilo de quienes somos*/
+#quienes-somos {
+  margin-left: 95px;
+  margin-top: 200px;
+ }
+
+ /*Estilo Imagen vision*/
+#image-vision {
+  margin-left: 850px;
+  margin-top: -375px;
+  margin-bottom: 250px;
+}
+
+/*Estilo de titulo mision*/
+#title-mision {
+  margin-left: 850px;
+  margin-top: 200px;
+}
+
+/*Estilo de parrafo mision*/
+#mision {
+  text-align: justify;
+  width: 90%;
+  padding-left: 850px;
+  padding-bottom: 70px;
+  margin-top: 25px;
+}
+
+ /*Estilo de titulo vision*/
+ #title-vision {
+  margin-left: 95px;
+  margin-top: 200px;
+ }
+
+ /*Estilo imagen mision*/
+ #image-mision {
+  margin-left: 100px;
+  margin-top: -375px;
+  margin-bottom: 250px;
+ }
+
+ /*Estilo de parrafo vision*/
+ #vision {
+  text-align: justify;
+  width: 90%;
+  padding-left: 99px;
+  padding-right: 700px;
+  padding-bottom: 70px;
+  margin-top: 25px;
+ }
+
 /*Estilos para el pie de pagina*/
 
 footer {
@@ -133,3 +192,5 @@ footer a:focus,
 footer a:active {
   color: #e74c3c; /* Color rojo para enlaces activos o con foco */
 }
+
+
